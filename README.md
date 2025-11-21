@@ -56,5 +56,5 @@
 <br>
 
 <p align="center">
-  Thank you! & Made with ❤️ by <a href="">codecrazy</a>
+  Thank you! & Made with ❤️ by <a href="/">codecrazy</a>
 </p>

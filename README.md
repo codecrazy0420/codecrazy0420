@@ -8,10 +8,10 @@
 </div>
 
 <h1 align="center">🌟 Senior Full Stack Engineer 🌟</h1>
-<h3 align="center">Full Stack | MERN | Python & Django | PHP Expert | Scalable Web & Mobile Applications</h3>
+<h3 align="center">🚀 Full Stack & AI/ML Engineer | MERN | Python/Django | PHP | Cloud & DevOps </h3>
 
 <p align="center">
- 🚀 Results-driven Senior Software Engineer with over 12+ years of experience designing and building secure, performant web and mobile applications. Proven impact across eCommerce, Fintech, Healthcare, and Enterprise SaaS. Expert in JavaScript/TypeScript ecosystems, cloud platforms, DevOps, and user-centered product development.
+ 🚀 I’m a Full Stack and AI/ML Engineer with 12+ years of experience building secure, scalable, high-performance web and mobile applications across eCommerce, Fintech, Healthcare, and SaaS. My core background is in MERN, Python/Django, and PHP, with deep experience in backend architecture, APIs, cloud infrastructure, and modern frontend development. Recently, I’ve expanded into AI/ML—building LLM-powered features, RAG systems, vector-search applications, automation workflows, and intelligent user experiences. I focus on writing clean, maintainable code, designing reliable systems, and delivering products that combine strong engineering with practical AI to solve real problems and create measurable impact.
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -20,10 +20,10 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Passionate about **designing scalable, high-performance systems** and **refining full-stack engineering workflows**
+- 🧠 Focused on building ** scalable, high-performance systems** and **refining full-stack engineering workflows**
 - ⚙️ Experienced with **React, Next.js, Node.js, PHP, Python, Django**, and low-level systems in **Rust** and **C++**
-- ☁️ Skilled in cloud deployment on **AWS, Azure, and GCP**
-- 🎓 **Bachelor’s in Computer Science** & **University of Novi Sad**
+- 🤖 Skilled in AI/ML development, including LLM integrations, RAG pipelines, vector search, and automation systems
+- 🎓 Strong background in cloud architecture and deployment across AWS, Azure, and Google Cloud
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 

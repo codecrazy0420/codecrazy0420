@@ -11,7 +11,10 @@
 <h3 align="center">🚀 Full Stack & AI/ML Engineer | MERN | Python/Django | PHP | Cloud & DevOps </h3>
 
 <p align="center">
- 🚀 I’m a Full Stack and AI/ML Engineer with 12+ years of experience building secure, scalable, high-performance web and mobile applications across eCommerce, Fintech, Healthcare, and SaaS. My core background is in MERN, Python/Django, and PHP, with deep experience in backend architecture, APIs, cloud infrastructure, and modern frontend development. Recently, I’ve expanded into AI/ML—building LLM-powered features, RAG systems, vector-search applications, automation workflows, and intelligent user experiences. I focus on writing clean, maintainable code, designing reliable systems, and delivering products that combine strong engineering with practical AI to solve real problems and create measurable impact.
+🚀 I’m a Full Stack and AI/ML Engineer with 12+ years of experience building secure, scalable, high-performance web and mobile applications across eCommerce, Fintech, Healthcare, and SaaS. 
+My core background is in MERN, Python/Django, and PHP, with deep experience in backend architecture, APIs, cloud infrastructure, and modern frontend development. 
+Recently, I’ve expanded into AI/ML—building LLM-powered features, RAG systems, vector-search applications, automation workflows, and intelligent user experiences. 
+I focus on writing clean, maintainable code, designing reliable systems, and delivering products that combine strong engineering with practical AI to solve real problems and create measurable impact.
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
